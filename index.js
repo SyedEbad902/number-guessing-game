@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 let randomNum = Math.floor(Math.random() * 10);
 console.log(randomNum);
